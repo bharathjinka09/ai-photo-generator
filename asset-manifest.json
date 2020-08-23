@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ai-photo-generator/static/css/main.bdce3666.chunk.css",
+    "main.js": "/ai-photo-generator/static/js/main.aee3a838.chunk.js",
+    "main.js.map": "/ai-photo-generator/static/js/main.aee3a838.chunk.js.map",
+    "runtime-main.js": "/ai-photo-generator/static/js/runtime-main.e9b55974.js",
+    "runtime-main.js.map": "/ai-photo-generator/static/js/runtime-main.e9b55974.js.map",
+    "static/js/2.10482ee6.chunk.js": "/ai-photo-generator/static/js/2.10482ee6.chunk.js",
+    "static/js/2.10482ee6.chunk.js.map": "/ai-photo-generator/static/js/2.10482ee6.chunk.js.map",
+    "index.html": "/ai-photo-generator/index.html",
+    "precache-manifest.eed3cea1127c86024373fdd67c4ab26c.js": "/ai-photo-generator/precache-manifest.eed3cea1127c86024373fdd67c4ab26c.js",
+    "service-worker.js": "/ai-photo-generator/service-worker.js",
+    "static/css/main.bdce3666.chunk.css.map": "/ai-photo-generator/static/css/main.bdce3666.chunk.css.map",
+    "static/js/2.10482ee6.chunk.js.LICENSE.txt": "/ai-photo-generator/static/js/2.10482ee6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9b55974.js",
+    "static/js/2.10482ee6.chunk.js",
+    "static/css/main.bdce3666.chunk.css",
+    "static/js/main.aee3a838.chunk.js"
+  ]
+}
